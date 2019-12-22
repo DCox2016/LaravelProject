@@ -154,11 +154,11 @@ ALTER TABLE `users`
   MODIFY `id` int(10) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
 
 
-I use MAMP as the backend on my local machine. Download Mamp is not needed to run this project.
+I used MAMP as the backend on my local machine. Download Mamp is not needed to run this project.
 https://www.mamp.info/en/
 
 
 To edit DB connect, open the .env in the root of the project.
 
-To run the project.
+To run the project navagate in to the root of the project in terminal and enter this command.
 php artisan serve
