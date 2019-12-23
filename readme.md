@@ -2,7 +2,7 @@ To use this project you will need a sql db to connect to. The current conneted d
 The username is homestead
 The password is secert
 
-Here is the code for the sql dumb
+Here is the dump for the sql dumb
 
 -- phpMyAdmin SQL Dump
 -- version 4.9.0.1
